@@ -1,0 +1,23 @@
+# java compiled files
+*.class
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+hs_err_*.log
+
+# Secrets
+.env
+*.properties
